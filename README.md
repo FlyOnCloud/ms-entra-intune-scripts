@@ -64,6 +64,16 @@ if (Test-Path $enrollerPath) {
 
 ---
 
+## Disclaimer
+
+This script is provided "as is" without warranty of any kind.  
+Use at your own risk.  
+Modifying or removing Intune MDM enrollment may affect device management, compliance, and access to corporate resources.  
+Test thoroughly in a non-production environment before using in production.  
+The author is not responsible for any damage or data loss resulting from the use of this script.
+
+---
+
 ## Credits
 
 - Author: Bogdan Guinea
