@@ -18,7 +18,7 @@ The name of the XML file to create.
 .NOTES
 Author: BGU
 Date: 30.09.25
-Version: 1.1
+Version: 1.0
 Rename the parameters as needed. For example, you can change the folder path and file name.
 #>
 
