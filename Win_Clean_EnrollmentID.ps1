@@ -24,7 +24,7 @@
     Exits with code 0 on success, 1 on warnings/errors.
 
 .EXAMPLE
-    .\Win_Clean_EnrollmentID_v02.ps1
+    .\Win_Clean_EnrollmentID.ps1
 
     Runs the Intune MDM cleanup process and logs actions to a transcript file.
 
